@@ -686,12 +686,12 @@ Banner Style
   background-image: url(../images/banner-item-03.jpg);
 }
 .accordion {
-  background-image: url('../images/about.png'); /* Replace with your image path */
+  background-image: url('../images/about.jpeg'); /* Replace with your image path */
   background-size: cover; /* Ensure the image covers the entire div */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent image repetition */
   width: 100%; /* Adjust width as needed */
-  height: 550px; /* Adjust height as needed */
+  height: 450px; /* Adjust height as needed */
   border-radius: 10px; /* Optional: Add rounded corners */
 }
 
