@@ -686,7 +686,7 @@ Banner Style
   background-image: url(../images/banner-item-03.jpg);
 }
 .accordion {
-  background-image: url('../images/about.jpeg'); /* Replace with your image path */
+  background-image: url('https://i.ibb.co/7kqPH1F/about.jpg'); /* Replace with your image path */
   background-size: cover; /* Ensure the image covers the entire div */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent image repetition */
